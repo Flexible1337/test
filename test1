@@ -1,1 +1,2 @@
 local notify = 1
+prtint(notify)
