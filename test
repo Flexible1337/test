@@ -1,0 +1,2 @@
+local notify = 1
+print(notify)
